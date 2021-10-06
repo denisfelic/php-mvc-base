@@ -1,0 +1,13 @@
+{
+    "name": "denoka/php_base_mvc",
+    "description": "Simple mvc for future projects",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Feliciano da Silva",
+            "email": "denisf.salles@gmail.com"
+        }
+    ],
+    "require": {}
+}
